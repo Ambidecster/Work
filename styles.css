@@ -43,7 +43,7 @@ body {
 
 .store {
 
-  width: 100px;
+  width: 300px;
 
 }
 
@@ -79,11 +79,12 @@ body {
 }
 
 .primary-footer {
-  padding: 50px;
+
+  padding: 2px;
 
   background-color: #FFC122;
 
-  text-align: bottom;
+  text-align: center;
 
 }
 
